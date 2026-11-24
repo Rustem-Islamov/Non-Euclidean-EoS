@@ -1,4 +1,4 @@
-# edge-of-stability
+# Non-Euclidean Edge of Stability
 
 Code for studying the "edge of stability" phenomenon in neural network training
 under different optimizers (plain/momentum GD, SignGD, Muon, block-coordinate GD, Adam).
